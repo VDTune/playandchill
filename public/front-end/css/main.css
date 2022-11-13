@@ -1,0 +1,15 @@
+.main-color{
+    background-color:  #0a0a0a !important;
+}
+
+.sign-up-btn{
+    color: black;
+    background-color: #DD0000;
+    border-color: #DD0000;
+}
+
+.sign-up-btn:hover {
+    color: #000;
+    background-color: #FF0000;
+    border-color: #FF0000;
+}
