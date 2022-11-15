@@ -1,0 +1,38 @@
+.main-color{
+    background-color:  #0a0a0a !important;
+}
+
+.sign-up-btn{
+    color: black;
+    background-color: #DD0000;
+    border-color: #DD0000;
+}
+
+.sign-up-btn:hover {
+    color: #000;
+    background-color: #FF0000;
+    border-color: #FF0000;
+}
+
+.main-font {
+    color: #AAAAAA !important; 
+    font-family: 'Montserrat', sans-serif;
+/* font-family: 'Roboto Slab', serif; */
+font-family: 'Roboto Mono', monospace;
+/* font-family: 'Nunito', sans-serif; */
+/* font-family: 'Noto Serif', serif; */
+/* font-family: 'Patrick Hand', cursive; */
+/* font-family: 'Itim', cursive; */
+/* font-family: 'Saira', sans-serif; */
+
+}
+
+.nav-list-iconnn{
+    background-color: #111111 !important;
+    border: 1.5px solid #ccc !important; 
+    /* color: #ccc !important; */
+}
+.mx-10
+{
+    margin: 0 9em 0 9em;
+}
